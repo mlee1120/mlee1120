@@ -5,7 +5,7 @@
 
 <p align="justify">Having strong interest in computer graphics, I have accomplished several projects on related topics, including modeling, rendering, animation, and motion capture. I would like to start a career in fields, including but not limited to animation and video game. I am looking forward to dedicating my experiences and skills to a team having great potential as a software engineer. As a self-motivated and responsible person, I believe that my eagerness to learn new knowledge and technologies will make me a promising employee.</p>
 
-<p align="justify">How to reach me: ml3406@g.rit.edu.</p>
+<p align="justify">How to reach me: michaellee1120@gmail.com</p>
 
 <!---
 mlee1120/mlee1120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
